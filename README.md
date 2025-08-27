@@ -3,7 +3,7 @@
 Sou entusiasta de tecnologia, apaixonado por **cibersegurança, automação e análise de dados**.  
 Atualmente trabalho com **NOC/SOC**, desenvolvendo scripts em Python, dashboards em Looker Studio e projetos voltados para **segurança da informação e redes**.
 
----
+--
 
 ## 🚀 Quem sou eu
 👾 Offensive Cyber Security  
