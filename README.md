@@ -55,6 +55,4 @@ Atualmente trabalho com **NOC/SOC**, desenvolvendo scripts em Python, dashboards
 
 ---
 
-### 🐍 Commits Snake
-> (ativado pelo workflow abaixo)
-![Snake animation](https://github.com/joaogustavo1/joaogustavo1/blob/output/github-contribution-grid-snake.svg)
+
